@@ -1,0 +1,16 @@
+PODS:
+  - RPHPod (0.1.0)
+
+DEPENDENCIES:
+  - RPHPod (from `../`)
+
+EXTERNAL SOURCES:
+  RPHPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RPHPod: 52684c228f44b5fc6e1c600eceb696524b01a2fb
+
+PODFILE CHECKSUM: 413e9edfadc21728f3016f4f0b7eb29f6f271da8
+
+COCOAPODS: 1.8.4
